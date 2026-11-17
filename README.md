@@ -128,9 +128,11 @@ The pipeline rests on spatialproteomics:
 > interoperable toolbox for analyzing highly multiplexed fluorescence image data.
 > *Nature Methods* 23, 1564–1573 (2026). doi:10.1038/s41592-026-03155-1
 
-and was used in:
+and was used for the CODEX analysis in:
 
-> Marcoux P., et al. *Blood* (2026).
+> Marcoux P., Gava F., Tosolini M., et al. Patient-derived lymphoma spheroids
+> reveal predictive markers of glofitamab resistance in relapsed/refractory
+> B-NHL. *Blood* 147(23), 2770 (2026). doi:10.1182/blood.2025031309
 
 ## License
 
