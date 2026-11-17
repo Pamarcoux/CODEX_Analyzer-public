@@ -1,0 +1,10 @@
+input_dir: "data/01_Raw_ROI_clean"
+marker_file: "config/marker_list.txt"
+thresholds_file: "config/thresholds.csv"
+project_name: "Test"
+
+# Parameters
+channel: "DAPI"
+gpu: False
+target_cells: 600000
+random_seed: 42

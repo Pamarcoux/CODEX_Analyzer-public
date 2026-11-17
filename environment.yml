@@ -1,0 +1,24 @@
+name: codex_analysis
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.10
+  - pip
+  - snakemake
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-image
+  - xarray
+  - anndata
+  - scanpy
+  - scimap
+  - pip:
+    - pulp<2.8
+    - cellpose
+    - spatialproteomics
+    - opencv-python-headless
